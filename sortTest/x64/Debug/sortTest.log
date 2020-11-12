@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  sortTest.cpp
+C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab2\sort\SortSearch.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     Создается библиотека C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab2\sort\x64\Debug\sortTest.lib и объект C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab2\sort\x64\Debug\sortTest.exp
+  sortTest.vcxproj -> C:\Users\Сергей\Desktop\УРОКИ часть 2\АиСД\lab2\sort\x64\Debug\sortTest.dll
